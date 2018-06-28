@@ -19,7 +19,9 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   var lowercase = "I can't hear you!"
   lowercase.toLowerCase() === lowercase
+  var uppercase = "YES INDEED!"
   uppercase.toUpperCase() === uppercase
-  return("I can't hear you!")
+  return("I can't hear you!"), ("YES INDEED")
+  
 }
 
