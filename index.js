@@ -22,7 +22,7 @@ var lowercase = "I can't hear you!"
 
 
 function sayHiToGrandma(string) {
-  return lowercase, uppercase
+  return lowercase 
   
 }
 
